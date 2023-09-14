@@ -64,39 +64,26 @@ Developed by: E.kamalesh
 RegisterNumber:  212222100019
 ```
 
-### Logic symbol & Truthtable:
+
 
 ### Output:
 ### RTL
 ![232856532-b831cbc1-33f3-4d65-a125-d5e5f6df8f29](https://github.com/kamalesh2509/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/120444689/25f4bff6-15c8-4c0e-9831-c2d1cb1808b8)
 
-### HALF ADDER
+![232956381-d1cb7dc8-7c60-47e0-ac44-3acd93e24137](https://github.com/kamalesh2509/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/120444689/cefa792c-ac34-4d5e-858e-9df6e066df35)
 
-### RTL realization
-
-![half adder](https://user-images.githubusercontent.com/93427224/190240271-cb1f513c-b75e-4038-81ce-966a436b3403.png)
 
 ### TIMING DIAGRAM
+![232856729-3b9025a8-342a-44d6-ab78-38d14782a5f9](https://github.com/kamalesh2509/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/120444689/473f6a0f-a919-49d7-94d7-25f474d2488a)
 
-![timing diagram](https://user-images.githubusercontent.com/93427224/190240428-cee632ce-1785-4273-a0ac-8474f6be5454.png)
+![232956501-e9b9cca6-e516-4338-a103-e8b8906d73ae](https://github.com/kamalesh2509/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/120444689/8c96e62a-c6be-4bd1-9e6f-7449ca42fc18)
 
-### TRUTH TABLE 
-
-![truth table](https://user-images.githubusercontent.com/93427224/190240640-98ad60d8-7f56-4fbb-b24e-bbe7c5126bdb.png)
-
-### FULL ADDER
-
-### RTL realization
-
-![full adder](https://user-images.githubusercontent.com/93427224/190240862-bb064ffc-5310-4e5b-a3a8-6265353c3143.png)
-
-### TIMING DIAGRAM
-
-![timing diagram](https://user-images.githubusercontent.com/93427224/190240958-7ba7c579-6a48-4a54-94be-d3f1e420f37c.png)
 
 ### TRUTH TABLE
+![232856995-e7c3449b-1115-4cc8-833f-8e31db7684c2](https://github.com/kamalesh2509/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/120444689/ac609db8-f757-4138-95ca-832761d87dab)
 
-![TRUTH TABLE](https://user-images.githubusercontent.com/93427224/190241181-234c3785-7e7d-4ac7-ba4d-54e0efdf4f46.png)
+![232856995-e7c3449b-1115-4cc8-833f-8e31db7684c2](https://github.com/kamalesh2509/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/120444689/f9b5db62-2217-4574-b368-4f3dd986c717)
+
 
 ### Result:
 
