@@ -67,8 +67,8 @@ RegisterNumber:  22004792
 ### Logic symbol & Truthtable:
 
 ### Output:
-
 ### RTL
+![232856532-b831cbc1-33f3-4d65-a125-d5e5f6df8f29](https://github.com/kamalesh2509/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/120444689/25f4bff6-15c8-4c0e-9831-c2d1cb1808b8)
 
 ### HALF ADDER
 
