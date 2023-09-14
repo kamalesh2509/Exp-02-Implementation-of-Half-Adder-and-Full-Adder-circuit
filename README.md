@@ -80,9 +80,7 @@ RegisterNumber:  212222100019
 
 
 ### TRUTH TABLE
-![232856995-e7c3449b-1115-4cc8-833f-8e31db7684c2](https://github.com/kamalesh2509/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/120444689/ac609db8-f757-4138-95ca-832761d87dab)
-
-![232856995-e7c3449b-1115-4cc8-833f-8e31db7684c2](https://github.com/kamalesh2509/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/120444689/f9b5db62-2217-4574-b368-4f3dd986c717)
+![232856995-e7c3449b-1115-4cc8-833f-8e31db7684c2](https://github.com/kamalesh2509/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/120444689/acd06da8-3398-46f5-9453-a185d218be44)
 
 
 ### Result:
