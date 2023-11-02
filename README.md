@@ -1,4 +1,4 @@
-# Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit
+# Exp-03-Implementation-of-Half-Adder-and-Full-Adder-circuit
 
 # Implementation-of-Half-Adder-and-Full-Adder-circuit
 
@@ -41,48 +41,49 @@ Switch ON the main switch
 If the output is 1, then the led glows.
 
 ### Program:
+```
+Developed by:E.kamalesh
+RegisterNumber:212222100019
+*/
 
-```### HALF ADDER PROGRAM
-module HALFADDER(a,b,sum,carry);
+1. Program to design a half adder:
+
+module ex3(a,b,sum,carry);
 input a,b;
 output sum,carry;
-xor(sum,a,b);
-and(carry,a,b);
-endmodule
-### FULL ADDER PROGRAM
-module FULLADDER(a,b,c,sum,carry);
-input a,b,c;
+assign sum=a^b;
+assign carry=a&b;
+endmodule 
+
+2. Program to design a full adder:
+
+module ex31(a,b,cin,sum,carry);
+input a,b,cin;
 output sum,carry;
-assign sum = ((a^b)^c);
-assign carry = ((a&b)|(b&c)|(c&a));
+assign sum=a^b^cin;
+assign carry=(a&b)|((a^b)&cin);
 endmodule
 ```
+## Truthtable:
 
-```
-Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-Developed by: E.kamalesh
-RegisterNumber:  212222100019
-```
+# half adder:
+![265629380-f8a33cf4-faec-4a3a-9a45-ba14ae1b5bda](https://github.com/kamalesh2509/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/120444689/788c6da0-84f6-4a85-a355-d59caf032f27)
+# full adder:
+![265629428-abf97517-ea99-40f1-affd-438e68f6cadb](https://github.com/kamalesh2509/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/120444689/3e87b21d-6068-49db-b858-3c9a6c7f5657)
+## RTL realization
 
+# half adder:
+![265629708-17b7b349-8cf3-4da8-91e7-6650fd7e733e](https://github.com/kamalesh2509/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/120444689/34c91f50-5076-4be2-b451-94d8a8496ff0)
+# full adder:
+![265629789-884932e9-6396-4dc5-ad8b-e1d0ef690b61](https://github.com/kamalesh2509/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/120444689/78657342-7edc-40e4-b724-be19fa4681be)
+## Output waveform:
+# half adder
+![265629888-a204ccf6-66f1-43d4-ae24-b980509a1acc](https://github.com/kamalesh2509/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/120444689/84bd8903-c6d4-494d-b132-6bfa5a76d471)
+# full adder
+![265629963-b5c9748a-da88-428a-9fda-90b04a98d9d0](https://github.com/kamalesh2509/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/120444689/e6fba1ff-7da3-435e-b0d5-cba6e95aa8ad)
 
-
-### Output:
-### RTL
-![232856532-b831cbc1-33f3-4d65-a125-d5e5f6df8f29](https://github.com/kamalesh2509/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/120444689/25f4bff6-15c8-4c0e-9831-c2d1cb1808b8)
-
-![232956381-d1cb7dc8-7c60-47e0-ac44-3acd93e24137](https://github.com/kamalesh2509/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/120444689/cefa792c-ac34-4d5e-858e-9df6e066df35)
-
-
-### TIMING DIAGRAM
-![232856729-3b9025a8-342a-44d6-ab78-38d14782a5f9](https://github.com/kamalesh2509/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/120444689/473f6a0f-a919-49d7-94d7-25f474d2488a)
-
-![232956501-e9b9cca6-e516-4338-a103-e8b8906d73ae](https://github.com/kamalesh2509/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/120444689/8c96e62a-c6be-4bd1-9e6f-7449ca42fc18)
-
-
-### TRUTH TABLE
-![232856995-e7c3449b-1115-4cc8-833f-8e31db7684c2](https://github.com/kamalesh2509/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/120444689/acd06da8-3398-46f5-9453-a185d218be44)
 
 
 ### Result:
+Thus the half adder and full adder circuit are designed and the truth table for half adder and full adder are verified.
 
-Thus, a half adder and full adder circuit is designed to verify its truth table in Quartus using Verilog programming.
