@@ -66,20 +66,20 @@ endmodule
 ```
 ## Truthtable:
 
-# half adder:
+#### half adder:
 ![265629380-f8a33cf4-faec-4a3a-9a45-ba14ae1b5bda](https://github.com/kamalesh2509/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/120444689/788c6da0-84f6-4a85-a355-d59caf032f27)
-# full adder:
+#### full adder:
 ![265629428-abf97517-ea99-40f1-affd-438e68f6cadb](https://github.com/kamalesh2509/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/120444689/3e87b21d-6068-49db-b858-3c9a6c7f5657)
 ## RTL realization
 
-# half adder:
+#### half adder:
 ![265629708-17b7b349-8cf3-4da8-91e7-6650fd7e733e](https://github.com/kamalesh2509/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/120444689/34c91f50-5076-4be2-b451-94d8a8496ff0)
-# full adder:
+#### full adder:
 ![265629789-884932e9-6396-4dc5-ad8b-e1d0ef690b61](https://github.com/kamalesh2509/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/120444689/78657342-7edc-40e4-b724-be19fa4681be)
 ## Output waveform:
-# half adder
+#### half adder
 ![265629888-a204ccf6-66f1-43d4-ae24-b980509a1acc](https://github.com/kamalesh2509/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/120444689/84bd8903-c6d4-494d-b132-6bfa5a76d471)
-# full adder
+#### full adder
 ![265629963-b5c9748a-da88-428a-9fda-90b04a98d9d0](https://github.com/kamalesh2509/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/120444689/e6fba1ff-7da3-435e-b0d5-cba6e95aa8ad)
 
 
